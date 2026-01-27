@@ -43,8 +43,3 @@ Sales analysts stop data gathering manually in order to save 20% of their busine
 
 Data Analysis - Approach
 
-
-
-
-
-
